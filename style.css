@@ -26,6 +26,9 @@ li {
     padding: 0.25em;
 }
 
+p {
+    color:gray;
+}
 
 a:link {
     text-decoration: none;
@@ -36,7 +39,7 @@ a:link {
     box-shadow: #ddd;
     width: 700px;
     border-radius: 30px;
-    padding: 50px;
+    padding: 20px;
     margin: 50PX;
 }
 
@@ -49,4 +52,8 @@ h5 {
 
 .date {
     color: gray;
+}
+
+.more-articles{
+    display:inline-block;
 }
